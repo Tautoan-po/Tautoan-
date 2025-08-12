@@ -1,4 +1,4 @@
-begin
+0begin
 
 END
 
